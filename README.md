@@ -32,6 +32,8 @@ The project is divided into the following main branches:
      * Specification Operators
      * Assignment Operators
      * Increment and Decrement Operators
+
+     
 * **Data Structures**
      * Lists
      * Dictionaries
